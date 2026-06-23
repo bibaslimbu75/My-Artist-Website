@@ -1,4 +1,4 @@
-# Bibas Limbu - Official Artist Website
+# BKL THE POET - Official Artist Website
 
 Welcome to the source code for my official artist portfolio and music landing page. This website is built entirely from scratch to ensure maximum speed, clean code structure, and zero dependency overhead.
 
